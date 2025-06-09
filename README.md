@@ -1,16 +1,51 @@
-## Hi there 👋
+Привет, я Лев Тарасов ! 👋
+🚀 Чем я занимаюсь:
 
-<!--
-**Guessler/Guessler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend разработка
+Изучение новых технологий
+Работа в команде над реальными проектами
+🛠 Мой стек технологий:
+JavaScript
+TypeScript
+React
+Redux
+SCSS
+Tailwind CSS
+Webpack
+Vite
 
-Here are some ideas to get you started:
+📊 Моя статистика GitHub:
+GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Как связаться:
+Telegram
+
+🧑‍💻 Кратко о себе:
+Я frontend-разработчик с опытом работы 1 год. За это время получил практические навыки создания клиентских частей веб-приложений на React , TypeScript , Redux и других современных инструментах.
+
+Имею опыт:
+
+Верстки адаптивных интерфейсов (SCSS, Tailwind CSS)
+Работы с React и управлением состоянием
+Интеграции фронтенда с backend-частью
+Использования Git для контроля версий
+🎯 Стремлюсь к постоянному развитию, активно изучаю новые технологии и подходы. Ответственный, легко обучаемый, умею работать как самостоятельно, так и в команде.
+
+💼 Должность:
+Frontend-разработчик
+
+Уровень:
+Junior+ / Middle
+
+Опыт работы:
+1 год
+
+Локация:
+Москва / Удалённая работа
+
+🎯 Цель:
+Получить возможность присоединиться к динамично развивающейся команде на позицию junior/middle frontend-разработчика с возможностью участия в реальных проектах и дальнейшего карьерного роста.
+
+С уважением,
+Лев Тарасов
+frontend-разработчик
