@@ -47,4 +47,4 @@
 
 Получить возможность присоединиться к динамично развивающейся команде на позицию **junior/middle frontend-разработчика** с возможностью участия в реальных проектах и дальнейшего карьерного роста.
 
-![Banner](https://via.placeholder.com/1024x300?text=Welcome+to+My+Profile)
+![Banner]([https://via.placeholder.com/1024x300?text=Welcome+to+My+Profile](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fturtle-meme-gifs&psig=AOvVaw23wvmclYHJ-DvDoDBnKVeR&ust=1749595584709000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCODpoMy15Y0DFQAAAAAdAAAAABAE))
