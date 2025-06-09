@@ -14,7 +14,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)  
 
 📊 **Моя статистика GitHub:**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ВАШ-USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guessler&show_icons=true&theme=radical)
 
 📫 **Как связаться:**  
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram)](https://t.me/tlfwrk)
