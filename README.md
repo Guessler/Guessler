@@ -37,9 +37,10 @@
 ### 🔸 Средний уровень
 
 ![React Query]( https://img.shields.io/badge/React_Query-FF4154?logo=reactquery&logoColor=white&style=flat-square&size=20x20)
+![JWT](https://img.shields.io/badge/JWT-000000?logo=auth0&logoColor=white&style=flat-square&size=20x20)
+![WebSockets](https://img.shields.io/badge/WebSockets-000000?logo=websockets&logoColor=white&style=flat-square&size=20x20)
 ![Next.js]( https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square&size=20x20)
 ![Express]( https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=flat-square&size=20x20)
-![GraphQL]( https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=flat-square&size=20x20)
 ![PostgreSQL]( https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=flat-square&size=20x20)
 ![MySQL]( https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white&style=flat-square&size=20x20)
 ![Sequelize]( https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white&style=flat-square&size=20x20)
@@ -47,9 +48,12 @@
 ![Storybook]( https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=white&style=flat-square&size=20x20)
 ![NestJS]( https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=flat-square&size=20x20)
 ![Jest]( https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=flat-square&size=20x20)
+![MiniIO](https://img.shields.io/badge/MinIO-0095FF?logo=minio&logoColor=white&style=flat-square&size=20x20)
 
 ### ⚪ Базовый уровень
 
+![GraphQL]( https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=flat-square&size=20x20)
+![Apollo](https://img.shields.io/badge/Apollo-312EFF?logo=apollostack&logoColor=white&style=flat-square&size=20x20)
 ![Docker]( https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white&style=flat-square&size=20x20)
 ![Redis]( https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=flat-square&size=20x20)
 ![PHP]( https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat-square&size=20x20)
